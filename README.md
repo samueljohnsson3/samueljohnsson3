@@ -1,8 +1,9 @@
 # Hi, I'm Samuel 👋
 
-## Data Analyst in Progress
+## Data Analyst Focused on Business Insights
 
-I focus on analyzing data to extract actionable business insights and support decision-making.
+I analyze data to extract actionable business insights and support decision-making.
+My work focuses on understanding customer behavior, identifying risks, and translating data into strategies that drive results.
 
 ---
 
@@ -21,6 +22,7 @@ I focus on analyzing data to extract actionable business insights and support de
 ### 🔹 Customer Segmentation (RFM)
 
 Segmented customers based on purchasing behavior to identify high-value groups and support targeted marketing strategies.
+
 👉 https://github.com/samueljohnsson3/customer-segmentation-marketing
 
 ---
@@ -28,6 +30,7 @@ Segmented customers based on purchasing behavior to identify high-value groups a
 ### 🔹 Bank Customer Churn Analysis
 
 Analyzed customer churn and built a predictive model with ~81% accuracy to identify customers at risk and support retention strategies.
+
 👉 https://github.com/samueljohnsson3/bank-customer-churn-analysis
 
 ---
